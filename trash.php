@@ -43,4 +43,4 @@ if ($hQuery->num_rows > 0) {
   <?php } ?>
 </div>
 </div>
-<?php include('includes/footer.php'); ?>
+<?php include('includes/footer.php'); ?> 
